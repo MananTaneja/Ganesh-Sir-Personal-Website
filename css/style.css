@@ -46,6 +46,7 @@ Table of Content:
 /*----------------------------------------------------*/
 html {
   scroll-behavior: smooth;
+  overflow-x: hidden;
 }
 
 .list {
